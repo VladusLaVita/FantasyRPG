@@ -49,6 +49,7 @@ MonoBehaviour:
   Enabled: 0
   pause: {fileID: 8638450847681761659}
   settings: {fileID: 2422938725865777266}
+  sceneName: 
 --- !u!1 &1114903279859681582
 GameObject:
   m_ObjectHideFlags: 0
@@ -546,7 +547,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &2210939023003272170
 RectTransform:
   m_ObjectHideFlags: 0
@@ -649,7 +650,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &3509391195010216216
 RectTransform:
   m_ObjectHideFlags: 0
