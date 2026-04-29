@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: 5df9cf0ba471d374eb3bed5aa75f0f9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1594213987409379908
+    second: HYGGFFG_0
+  - first:
+      213: 1891011050077846261
+    second: HYGGFFG_1
+  - first:
+      213: -3458182883824280665
+    second: HYGGFFG_2
+  - first:
+      213: 1590941624546983143
+    second: HYGGFFG_3
+  - first:
+      213: 1878834376544216266
+    second: HYGGFFG_4
+  - first:
+      213: 1215979279562022076
+    second: HYGGFFG_5
+  - first:
+      213: 4471767464885621535
+    second: HYGGFFG_6
+  - first:
+      213: 8734605511281771972
+    second: HYGGFFG_7
+  - first:
+      213: 3257100113929690487
+    second: HYGGFFG_8
+  - first:
+      213: 1665727439690524427
+    second: HYGGFFG_9
+  - first:
+      213: 10849507380140734
+    second: HYGGFFG_10
+  - first:
+      213: 372587638869994798
+    second: HYGGFFG_11
+  - first:
+      213: 6004459496551533721
+    second: HYGGFFG_12
+  - first:
+      213: -6307355461181865110
+    second: HYGGFFG_13
+  - first:
+      213: -573097260930001734
+    second: HYGGFFG_14
+  - first:
+      213: -4461841113099413808
+    second: HYGGFFG_15
+  - first:
+      213: -4328664644998579935
+    second: HYGGFFG_16
+  - first:
+      213: -2016269666949631847
+    second: HYGGFFG_17
+  - first:
+      213: 1398597740802544112
+    second: HYGGFFG_18
+  - first:
+      213: 405729260069853524
+    second: HYGGFFG_19
+  - first:
+      213: 2322051770014732790
+    second: HYGGFFG_20
+  - first:
+      213: -7696927409577344207
+    second: HYGGFFG_21
+  - first:
+      213: -5255913134742690645
+    second: HYGGFFG_22
+  - first:
+      213: -5077087304536336373
+    second: HYGGFFG_23
+  - first:
+      213: 8298090958243276155
+    second: HYGGFFG_24
+  - first:
+      213: 6503241831825576792
+    second: HYGGFFG_25
+  - first:
+      213: -8898067563166369396
+    second: HYGGFFG_26
+  - first:
+      213: 646874101118693196
+    second: HYGGFFG_27
+  - first:
+      213: 1643030442645742235
+    second: HYGGFFG_28
+  - first:
+      213: -8538389413594512561
+    second: HYGGFFG_29
+  - first:
+      213: -6592426352596096504
+    second: HYGGFFG_30
+  - first:
+      213: -4785787595127159951
+    second: HYGGFFG_31
+  - first:
+      213: 8281462452321138484
+    second: HYGGFFG_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HYGGFFG_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd318033d630e9e0800000000000000
+      internalID: -1594213987409379908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 604
+        width: 177
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa7a32f7883e3a10800000000000000
+      internalID: 1891011050077846261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 604
+        width: 167
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab51594df01200d0800000000000000
+      internalID: -3458182883824280665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 603
+        width: 230
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec71857af8241610800000000000000
+      internalID: 1590941624546983143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 603
+        width: 193
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4e5b539e5f21a10800000000000000
+      internalID: 1878834376544216266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_5
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 353
+        width: 254
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc978456b600e010800000000000000
+      internalID: 1215979279562022076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 554
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1318ae11d8ee0e30800000000000000
+      internalID: 4471767464885621535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_7
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 555
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c58e114f6d873970800000000000000
+      internalID: 8734605511281771972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_8
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 554
+        width: 55
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77dd9a8fb4b833d20800000000000000
+      internalID: 3257100113929690487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 359
+        width: 199
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07ef5fe74add1710800000000000000
+      internalID: 1665727439690524427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_10
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 358
+        width: 222
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba9169c19b862000800000000000000
+      internalID: 10849507380140734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_11
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 357
+        width: 422
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2c86cb72bb2500800000000000000
+      internalID: 372587638869994798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_12
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 356
+        width: 194
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ccc206910245350800000000000000
+      internalID: 6004459496551533721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_13
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 307
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63822830a5c778a0800000000000000
+      internalID: -6307355461181865110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_14
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 307
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4948cd313fb08f0800000000000000
+      internalID: -573097260930001734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_15
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 307
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6d971c52b5412c0800000000000000
+      internalID: -4461841113099413808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_16
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 307
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 129311b807e7de3c0800000000000000
+      internalID: -4328664644998579935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_17
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 307
+        width: 61
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990721aab65c404e0800000000000000
+      internalID: -2016269666949631847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_18
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 307
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f113343c31d86310800000000000000
+      internalID: 1398597740802544112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 199
+        height: 227
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4591275cc9071a500800000000000000
+      internalID: 405729260069853524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 75
+        width: 200
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f19bc538c5993020800000000000000
+      internalID: 2322051770014732790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_21
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 255
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 133cc221d450f2590800000000000000
+      internalID: -7696927409577344207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_22
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 76
+        width: 190
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba42a59d9de3f07b0800000000000000
+      internalID: -5255913134742690645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_23
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 132
+        width: 249
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08577ffeff8a89b0800000000000000
+      internalID: -5077087304536336373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_24
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 132
+        width: 240
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a8f7e2cdb82370800000000000000
+      internalID: 8298090958243276155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_25
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 221
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8539c6a8df7204a50800000000000000
+      internalID: 6503241831825576792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_26
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 24
+        width: 289
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c89fa0ef1b6b38480800000000000000
+      internalID: -8898067563166369396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 119
+        width: 37
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f649351982af800800000000000000
+      internalID: 646874101118693196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_28
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 105
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b926d018b773dc610800000000000000
+      internalID: 1643030442645742235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_29
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 0
+        width: 330
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f434eb0111c818980800000000000000
+      internalID: -8538389413594512561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_30
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 81
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae595192ff284a0800000000000000
+      internalID: -6592426352596096504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_31
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 64
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17389f5d987759db0800000000000000
+      internalID: -4785787595127159951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HYGGFFG_32
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 54
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437365b293aade270800000000000000
+      internalID: 8281462452321138484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1cbd5cffce7c2a64db28b49a506045c9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HYGGFFG_0: -1594213987409379908
+      HYGGFFG_1: 1891011050077846261
+      HYGGFFG_10: 10849507380140734
+      HYGGFFG_11: 372587638869994798
+      HYGGFFG_12: 6004459496551533721
+      HYGGFFG_13: -6307355461181865110
+      HYGGFFG_14: -573097260930001734
+      HYGGFFG_15: -4461841113099413808
+      HYGGFFG_16: -4328664644998579935
+      HYGGFFG_17: -2016269666949631847
+      HYGGFFG_18: 1398597740802544112
+      HYGGFFG_19: 405729260069853524
+      HYGGFFG_2: -3458182883824280665
+      HYGGFFG_20: 2322051770014732790
+      HYGGFFG_21: -7696927409577344207
+      HYGGFFG_22: -5255913134742690645
+      HYGGFFG_23: -5077087304536336373
+      HYGGFFG_24: 8298090958243276155
+      HYGGFFG_25: 6503241831825576792
+      HYGGFFG_26: -8898067563166369396
+      HYGGFFG_27: 646874101118693196
+      HYGGFFG_28: 1643030442645742235
+      HYGGFFG_29: -8538389413594512561
+      HYGGFFG_3: 1590941624546983143
+      HYGGFFG_30: -6592426352596096504
+      HYGGFFG_31: -4785787595127159951
+      HYGGFFG_32: 8281462452321138484
+      HYGGFFG_4: 1878834376544216266
+      HYGGFFG_5: 1215979279562022076
+      HYGGFFG_6: 4471767464885621535
+      HYGGFFG_7: 8734605511281771972
+      HYGGFFG_8: 3257100113929690487
+      HYGGFFG_9: 1665727439690524427
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
