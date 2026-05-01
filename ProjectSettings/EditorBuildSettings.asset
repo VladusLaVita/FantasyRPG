@@ -20,6 +20,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/004 Forest Middle.unity
     guid: fb907e3ef2fb4d04a913df61af903464
+  - enabled: 1
+    path: Assets/Scenes/005 Key and Stump.unity
+    guid: 8bdf8f74fcda6d244b7c1814b2b0823f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
