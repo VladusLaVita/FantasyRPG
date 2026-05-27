@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 7e40ad4b9b161c64fa8880a05b2ba11e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7891727512898555673
+    second: Orcs animation_0
+  - first:
+      213: -2482069665368296206
+    second: Orcs animation_1
+  - first:
+      213: 5676067773452064892
+    second: Orcs animation_2
+  - first:
+      213: -6214482605266332914
+    second: Orcs animation_3
+  - first:
+      213: -2773715177996231110
+    second: Orcs animation_4
+  - first:
+      213: -1925819602581754700
+    second: Orcs animation_5
+  - first:
+      213: 967183291295539906
+    second: Orcs animation_6
+  - first:
+      213: 8945955268717024233
+    second: Orcs animation_7
+  - first:
+      213: 3894733394304612907
+    second: Orcs animation_8
+  - first:
+      213: 9005637984158144288
+    second: Orcs animation_9
+  - first:
+      213: 3934360697522958913
+    second: Orcs animation_10
+  - first:
+      213: 1281660983478375782
+    second: Orcs animation_11
+  - first:
+      213: 5824976571129399395
+    second: Orcs animation_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Orcs animation_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 456
+        width: 334
+        height: 564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fce7e5c5c058d60800000000000000
+      internalID: 7891727512898555673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 304
+        width: 321
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f433f73acaed8dd0800000000000000
+      internalID: -2482069665368296206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 225
+        width: 358
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7817ad119175ce40800000000000000
+      internalID: 5676067773452064892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_3
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 625
+        width: 276
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03914a0ff8b1c9a0800000000000000
+      internalID: -6214482605266332914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_4
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 629
+        width: 323
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3edc6bcdb8c189d0800000000000000
+      internalID: -2773715177996231110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_5
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 209
+        width: 359
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc61ae564d1645e0800000000000000
+      internalID: -1925819602581754700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_6
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 459
+        width: 558
+        height: 565
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22d5e34102c6d00800000000000000
+      internalID: 967183291295539906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 351
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e399605bea662c70800000000000000
+      internalID: 8945955268717024233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_8
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1
+        width: 314
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab06e036fdc0630800000000000000
+      internalID: 3894733394304612907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_9
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 89
+        width: 290
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027d28d58047afc70800000000000000
+      internalID: 9005637984158144288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_10
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 0
+        width: 297
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1423d129538a99630800000000000000
+      internalID: 3934360697522958913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_11
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 198
+        width: 459
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d4babfdf59c110800000000000000
+      internalID: 1281660983478375782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Orcs animation_12
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 17
+        width: 265
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3680423545976d050800000000000000
+      internalID: 5824976571129399395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Orcs animation_0: 7891727512898555673
+      Orcs animation_1: -2482069665368296206
+      Orcs animation_10: 3934360697522958913
+      Orcs animation_11: 1281660983478375782
+      Orcs animation_12: 5824976571129399395
+      Orcs animation_2: 5676067773452064892
+      Orcs animation_3: -6214482605266332914
+      Orcs animation_4: -2773715177996231110
+      Orcs animation_5: -1925819602581754700
+      Orcs animation_6: 967183291295539906
+      Orcs animation_7: 8945955268717024233
+      Orcs animation_8: 3894733394304612907
+      Orcs animation_9: 9005637984158144288
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
