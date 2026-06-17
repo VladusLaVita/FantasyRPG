@@ -12,9 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: aed02fa8b85a8c144b94ba07ec20e199, type: 3}
   m_Name: Player
   m_EditorClassIdentifier: 
-  ATK: 1
-  DEF: 0
-  MGK: 1
-  RNG: 1
+  Name: Player
+  sprite: {fileID: 0}
+  ATK: 25
+  DEF: 10
+  MGK: 25
+  RNG: 25
   LVL: 1
   HP: 100
+  currentHP: 100

@@ -18,6 +18,12 @@ public class SceneChanger : MonoBehaviour
         }
     }
 
+    public void Load(string sceneNumber)
+    {
+        string realScene = FindScene(sceneNumber);
+        SceneManager.LoadScene(realScene);
+    }
+
     string FindScene(string sceneNumber)
     {
         if (Directory.Exists(path))

@@ -3,6 +3,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public float PlayerSpeed = 5f;
+    public RPGStats playerStats;
     public Transform PlayerCamera;
     private Rigidbody2D rb;
     private Vector2 MoveInput;
